@@ -1,0 +1,31 @@
+med_id,name,category,disease_ids,dosage,effectiveness,price_inr,side_effects,contraindications
+M001,Cetirizine,Antihistamine,D001,10mg once daily,0.82,120,See package insert,Consult physician
+M002,Paracetamol,Analgesic,"D001,D002,D006",500-1000mg q6h,0.88,30,See package insert,Consult physician
+M003,Pseudoephedrine,Decongestant,"D001,D015",60mg twice daily,0.79,45,See package insert,Consult physician
+M004,Oseltamivir,Antiviral,"D002,D003",75mg twice daily x5d,0.85,280,See package insert,Consult physician
+M005,Remdesivir,Antiviral,D003,200mg IV day1,0.8,5000,See package insert,Consult physician
+M006,Metformin,Antidiabetic,D004,500-2000mg daily,0.88,35,See package insert,Consult physician
+M007,Glipizide,Sulfonylurea,D004,5-10mg daily,0.82,55,See package insert,Consult physician
+M008,Amlodipine,CCB,D005,5-10mg daily,0.87,60,See package insert,Consult physician
+M009,Lisinopril,ACE Inhibitor,D005,10-40mg daily,0.89,45,See package insert,Consult physician
+M010,Sumatriptan,Triptan,D006,50mg at onset,0.9,420,See package insert,Consult physician
+M011,Topiramate,Anticonvulsant,D006,25-100mg daily,0.78,180,See package insert,Consult physician
+M012,Salbutamol,SABA,D007,100-200mcg PRN,0.92,180,See package insert,Consult physician
+M013,Fluticasone Inhaler,ICS,D007,250mcg twice daily,0.88,620,See package insert,Consult physician
+M014,Amoxicillin,Antibiotic,"D008,D009",500mg TDS x7d,0.84,95,See package insert,Consult physician
+M015,Azithromycin,Macrolide,D008,500mg day1 then 250mg x4d,0.83,180,See package insert,Consult physician
+M016,ORS,Electrolyte,"D009,D010",200ml after each stool,0.9,15,See package insert,Consult physician
+M017,Nitrofurantoin,Antibiotic,D010,100mg twice daily x5d,0.87,140,See package insert,Consult physician
+M018,Ferrous Sulfate,Iron Supplement,D011,325mg twice daily,0.88,40,See package insert,Consult physician
+M019,Folic Acid,Vitamin,"D011,D013",5mg daily,0.9,25,See package insert,Consult physician
+M020,Celecoxib,COX-2 Inhibitor,D012,200mg daily,0.82,350,See package insert,Consult physician
+M021,Methotrexate,DMARD,D012,7.5-25mg weekly,0.85,180,See package insert,Consult physician
+M022,Sertraline,SSRI,"D013,D014",50-200mg daily,0.83,145,See package insert,Consult physician
+M023,Escitalopram,SSRI,"D013,D014",10-20mg daily,0.85,220,See package insert,Consult physician
+M024,Bupropion,NDRI,D013,150-300mg daily,0.81,380,See package insert,Consult physician
+M025,Alprazolam,Benzodiazepine,D014,0.25-0.5mg TDS,0.89,75,See package insert,Consult physician
+M026,Buspirone,Anxiolytic,D014,5-20mg TDS,0.77,165,See package insert,Consult physician
+M027,Fluticasone Nasal,INCS,D015,1-2 sprays daily,0.91,320,See package insert,Consult physician
+M028,Loratadine,Antihistamine,"D015,D001",10mg daily,0.82,65,See package insert,Consult physician
+M029,Montelukast,LTRA,"D015,D007",10mg nightly,0.78,350,See package insert,Consult physician
+M030,Hydroxychloroquine,Antimalarial DMARD,D012,200-400mg daily,0.79,280,See package insert,Consult physician

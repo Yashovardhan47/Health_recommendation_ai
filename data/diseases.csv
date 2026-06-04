@@ -1,0 +1,16 @@
+disease_id,name,category,severity,icd_code,description
+D001,Common Cold,Infectious,Mild,ICD-D001,Medical condition: Common Cold
+D002,Influenza,Infectious,Moderate,ICD-D002,Medical condition: Influenza
+D003,COVID-19,Infectious,Moderate,ICD-D003,Medical condition: COVID-19
+D004,Diabetes Type 2,Metabolic,Chronic,ICD-D004,Medical condition: Diabetes Type 2
+D005,Hypertension,Cardiovascular,Chronic,ICD-D005,Medical condition: Hypertension
+D006,Migraine,Neurological,Moderate,ICD-D006,Medical condition: Migraine
+D007,Asthma,Respiratory,Chronic,ICD-D007,Medical condition: Asthma
+D008,Pneumonia,Infectious,Severe,ICD-D008,Medical condition: Pneumonia
+D009,Gastroenteritis,Gastrointestinal,Mild,ICD-D009,Medical condition: Gastroenteritis
+D010,UTI,Urological,Mild,ICD-D010,Medical condition: UTI
+D011,Anemia,Hematological,Moderate,ICD-D011,Medical condition: Anemia
+D012,Arthritis,Musculoskeletal,Chronic,ICD-D012,Medical condition: Arthritis
+D013,Depression,Psychiatric,Chronic,ICD-D013,Medical condition: Depression
+D014,Anxiety Disorder,Psychiatric,Moderate,ICD-D014,Medical condition: Anxiety Disorder
+D015,Allergic Rhinitis,Immunological,Mild,ICD-D015,Medical condition: Allergic Rhinitis
